@@ -1,7 +1,23 @@
 body 
 {
-    background:red;
+    background: lightpink;
     font-family:Arial, Helvetica, sans-serif;
+}
+
+.assignment 
+{
+    display: flex;
+    padding:10px;
+    margin: 10px;
+    background: lightgray;
+}
+
+.assignment img
+{
+width:200px;
+padding:10px;
+
+
 }
 
 h1
